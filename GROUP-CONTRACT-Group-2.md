@@ -8,7 +8,7 @@ Tasks will be assigned with work distributed as equally as possible and will hav
 ## Diverse Working Styles
 The group acknowledges and respects that members have different working styles, schedules, and strengths. We will accommodate these differences by setting clear, flexible internal deadlines prior to the final submission date. Members are encouraged to communicate their preferred working methods early so tasks can be assigned that align with individual strengths while ensuring the project progresses smoothly for everyone.
 ## Conflict Resolution
-
+Any disagreements or conflicts will first be addressed internally through open, respectful discussion within the Teams channel. The group will attempt to reach a consensus or majority vote on project-related decisions. If a resolution cannot be reached internally, or if unprofessional behavior occurs, the issue will be documented and escalated to the CLF for mediation and guidance.
 ## Academic Integrity
 
 ## Signatures
