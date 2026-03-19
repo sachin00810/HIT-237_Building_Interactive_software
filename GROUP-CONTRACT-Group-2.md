@@ -9,9 +9,9 @@ Tasks will be assigned with work distributed as equally as possible and will hav
 ## Diverse Working Styles
 The group acknowledges and respects that members have different working styles, schedules, and strengths. We will accommodate these differences by setting clear, flexible internal deadlines prior to the final submission date. Members are encouraged to communicate their preferred working methods early so tasks can be assigned that align with individual strengths while ensuring the project progresses smoothly for everyone.
 ## Conflict Resolution
-(Conflict resolution: What is your escalation pathway if a disagreement cannot be resolved within the group? At what point do you involve the teaching team?)
+
 ## Academic Integrity
-(Academic integrity: How will you ensure submitted work does not breach the University’s academic integrity policies? How will AI-generated code be reviewed, attributed, and understood by all members?)
+
 # Milestones and Checkpoints
 | Assignment | Check In | Work Done | Final Due Date |
 |------------|----------|-----------|----------------|
