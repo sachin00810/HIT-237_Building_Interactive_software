@@ -12,7 +12,7 @@ Any disagreements or conflicts will first be addressed internally through open, 
 ## Academic Integrity
 All group members commit to upholding the university's academic integrity standards. All submitted work must be original, properly referenced, and free from plagiarism or unauthorized use of generative AI. Each member is solely responsible for the integrity of their contributed sections. If a member is suspected of an academic integrity violation, the group will immediately inform the CLF to ensure the rest of the group is not penalized for an individual's misconduct.
 ## Signatures
-|Sachin Kharel - |
+|Sachin Kharel - SK|
 Joshua Jnani - JJ|
 Muhammad Hassan - |
 Saman Kandel - |
