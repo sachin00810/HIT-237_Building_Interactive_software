@@ -12,7 +12,7 @@ Tasks will be assigned with work distributed as equally as possible and will hav
 ## Academic Integrity
 
 ## Signatures
-Sachin Kharel - 
-Joshua Jnani - JJ
-Muhammad Hassan - 
-Saman Kandel - 
+|Sachin Kharel - |
+Joshua Jnani - JJ|
+Muhammad Hassan - |
+Saman Kandel - |
